@@ -7,10 +7,11 @@
 </head>
 <body>
     <?php
-$i = 5;
+$i = 1;
+$num=5;
 
 for($i=1;$i<=10;$i++){
-    echo("<br>".$i);
+    echo("<br>".$i*$num);
 } 
 
 ?>
