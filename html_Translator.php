@@ -40,6 +40,7 @@ width:100%;
     margin-left: 1px;
     text-align: center;
     padding: 10px 0px;
+    margin-top:0px;
 }
 .btn1,.btn2{
 border: none;
@@ -55,6 +56,7 @@ font-size: 16px;
 .r_side{
     border:2px solid #f72db0; ;
     margin-left: 20px;
+    margin-top:5px;
 
 }
 .r_sideC{
